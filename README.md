@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
-<h3 align="center">I'm a full-stack developer wanting to learn more and more.</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisharrk&label=Profile%20views&color=0e75b6&style=flat" alt="nisharrk" /> </p>
 
