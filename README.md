@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamnisharrk" target="blank"><img src="https://img.shields.io/twitter/follow/iamnisharrk?logo=twitter&style=for-the-badge" alt="iamnisharrk" /></a> </p>
 
-- 🔭 I’m currently working on [an expense tracker](https://github.com/Nisharrk/expensetracker)
+- 🔭 I’m currently working on [a budeget tracker](https://github.com/Nisharrk/budgettracker)
 
 - 🌱 I’m currently learning **Next.js**
 
