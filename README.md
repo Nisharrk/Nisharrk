@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [a budget tracker](https://github.com/Nisharrk/budgettracker)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m always learning **something**
 
 - 👯 I’m looking to collaborate on **projects**
 
