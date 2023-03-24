@@ -35,8 +35,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nisharrk&theme=github_dark" width="400" /> 
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nisharrk&theme=github_dark)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nisharrk&theme=github_dark" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisharrk&theme=github_dark&utcOffset=8" width="400" /> 
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisharrk&theme=github_dark&utcOffset=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nisharrk&theme=black-ice)](https://git.io/streak-stats)
+<p aligh="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nisharrk&theme=black-ice)](https://git.io/streak-stats)
+</p>
