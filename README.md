@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisharrk&label=Profile%20views&color=0e75b6&style=flat" alt="nisharrk" /> </p>
-
-<p align="left"> <a href="https://twitter.com/iamnisharrk" target="blank"><img src="https://img.shields.io/twitter/follow/iamnisharrk?logo=twitter&style=for-the-badge" alt="iamnisharrk" /></a> </p>
-
 - 🔭 I’m currently working on [a budget tracker](https://github.com/Nisharrk/budgettracker)
 
 - 🌱 I’m always learning **something**
