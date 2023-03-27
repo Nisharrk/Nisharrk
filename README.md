@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-- 🔭 I’m currently working on [a budget tracker](https://github.com/Nisharrk/budgettracker)
+- 🔭 I’m currently working on [a budget tracker](https://github.com/Nisharrk/budgettracker) and [a time boxer](https://github.com/Nisharrk/time-boxer)
 
 - 🌱 I’m always learning **something**
 
