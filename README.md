@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nishantsharma2633@gmail.com**
 
-- ⚡ Fun fact **I'm secretly a shark, don't tell anyone**
+- ⚡ Fun fact **I'm secretly a sharrk.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
