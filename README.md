@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m always learning **something**
-
-- 👯 I’m looking to collaborate on **projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Nisharrk/](https://github.com/Nisharrk/)
-
 - 📫 How to reach me **nishantsharma2633@gmail.com**
 
 - ⚡ Fun fact **I'm secretly a sharrk.**
